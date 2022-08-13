@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hariharansanthanam.github.io/csb-n9ffil/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/main.192175aa.chunk.js",
+    "main.js.map": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/main.192175aa.chunk.js.map",
+    "runtime-main.js": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/runtime-main.540bebfd.js",
+    "runtime-main.js.map": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/runtime-main.540bebfd.js.map",
+    "static/js/2.2c3d5f93.chunk.js": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/2.2c3d5f93.chunk.js",
+    "static/js/2.2c3d5f93.chunk.js.map": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/2.2c3d5f93.chunk.js.map",
+    "index.html": "https://hariharansanthanam.github.io/csb-n9ffil/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://hariharansanthanam.github.io/csb-n9ffil/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2c3d5f93.chunk.js.LICENSE.txt": "https://hariharansanthanam.github.io/csb-n9ffil/static/js/2.2c3d5f93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.540bebfd.js",
+    "static/js/2.2c3d5f93.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.192175aa.chunk.js"
+  ]
+}
